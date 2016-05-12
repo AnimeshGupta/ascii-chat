@@ -1,0 +1,3 @@
+[submodule "ext/libfmemopen"]
+	path = ext/libfmemopen
+	url = git@github.com:zfogg/libfmemopen.git
